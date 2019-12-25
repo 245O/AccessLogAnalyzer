@@ -1,5 +1,9 @@
 # AccessLogAnalyzer
 + 実行方法
-'''
-git clone 
-'''
+```
+git clone https://github.com/KoukiNishihara/AccessLogAnalyzer.git
+```
+```
+cd AccessLogAnalyzer/
+```
+AccessLogAnalyzer.ipynbを実行
