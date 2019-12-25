@@ -7,3 +7,5 @@ git clone https://github.com/KoukiNishihara/AccessLogAnalyzer.git
 cd AccessLogAnalyzer/
 ```
 AccessLogAnalyzer.ipynbを実行
+
+ファイル実行時の案内と入力例にならって解析する期間とファイル名を指定する．
