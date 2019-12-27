@@ -9,14 +9,14 @@ Original file is located at
 # git clone していない場合の実行
 """
 
-!git clone https://github.com/KoukiNishihara/AccessLogAnalyzer.git
+#!git clone https://github.com/KoukiNishihara/AccessLogAnalyzer.git
 
 # Commented out IPython magic to ensure Python compatibility.
 # %cd AccessLogAnalyzer/
 
 """# git clone 済みの場合の実行"""
 
-!pip3 install apache-log-parser
+#!pip3 install apache-log-parser
 
 import datetime
 import apache_log_parser
