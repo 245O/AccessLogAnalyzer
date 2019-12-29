@@ -2,7 +2,7 @@
 収集したApache HTTP サーバのアクセスログを解析するプログラム
 + 実行方法
 ```
-git clone https://github.com/KoukiNishihara/AccessLogAnalyzer.git
+git clone https://github.com/245O/AccessLogAnalyzer.git
 ```
 ```
 cd AccessLogAnalyzer/
